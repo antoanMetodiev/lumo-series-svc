@@ -1,2 +1,2 @@
-# lumo-series-svc
-This is a series microservice from my previous project, "Stream Mate Application," but with fewer functionalities and in a project with a different purpose.
+# stream-mate-series-svc
+This is the repository of my series microservice from the Stream Mate project!
