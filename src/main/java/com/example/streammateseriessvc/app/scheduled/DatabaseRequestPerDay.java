@@ -1,4 +1,4 @@
-package com.example.streammatemoviesvc.app.scheduled;
+package com.example.streammateseriessvc.app.scheduled;
 
 import com.example.streammateseriessvc.app.feather.repositories.SeriesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
